@@ -1,0 +1,51 @@
+body {
+  background-color: #C1A3A3;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #694E4E;
+  border-width: 5px;
+}
+
+h1 {
+  color: #694E4E;
+}
+
+h2 {
+  color: #694E4E;
+}
+
+h3 {
+  color: #694E4E;
+}
+
+h4 {
+  color: #694E4E;
+}
+
+h5 {
+  color: #694E4E;
+}
+
+h6 {
+  color: #694E4E;
+}
+
+p {
+  color: #FFFDA2;
+}
+
+ul {
+  color: #FFFDA2;
+}
+
+table {
+  color: #FFFDA2;
+}
+
+img {
+  height: 240px;
+  width: 240px;
+}
